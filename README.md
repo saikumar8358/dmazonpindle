@@ -1,2 +1,2 @@
 # pindle
-this is a console version of amazon pindle
+this is a console version of amazon kindle
